@@ -1,1 +1,1 @@
-web: gunicorn gerenciamento_assinaturas.wsgi
+web: gunicorn gerenciamento_assinaturas.wsgi --log-file -
