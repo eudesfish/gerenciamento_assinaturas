@@ -1,0 +1,1 @@
+web: gunicorn gerenciamento_assinaturas.wsgi
